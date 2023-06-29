@@ -355,6 +355,30 @@ section {
   width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .java {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .kotlin {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .net {
+  width: 65%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .xml {
+  width: 65%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .json {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .nodejs {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .apis {
   width: 65%;
 }
 
