@@ -589,7 +589,7 @@ section {
   padding-top: 3.5rem;
 }
 .contact-content-con .left-contact {
-  flex: 3;
+  flex: 2;
 }
 .contact-content-con .left-contact h4 {
   margin-top: 1rem;
@@ -656,7 +656,7 @@ section {
   margin: 1.5rem 0;
 }
 .contact-content-con .right-contact .input-control input, .contact-content-con .right-contact .input-control textarea {
-  border-radius: 30px;
+  border-radius: 10px;
   font-weight: inherit;
   font-size: inherit;
   font-family: inherit;

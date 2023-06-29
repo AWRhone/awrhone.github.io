@@ -593,7 +593,7 @@ section{
     display: flex;
     padding-top: 3.5rem;
     .left-contact{
-        flex: 3;
+        flex: 2;
         h4{
             margin-top: 1rem;
             font-size: 2rem;
@@ -660,7 +660,7 @@ section{
         .input-control{
             margin: 1.5rem 0;
             input, textarea{
-                border-radius: 30px;
+                border-radius: 10px;
                 font-weight: inherit;
                 font-size: inherit;
                 font-family: inherit;
