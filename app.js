@@ -52,6 +52,10 @@ function PageTransitions(){
     })
 }
 
+function redirectToBlog(url) {
+    window.location.href = url;
+}
+
     
 
 
